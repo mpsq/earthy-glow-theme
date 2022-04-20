@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "author": "mpsq",
+  "name": "Earthy glow",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "me@mpsq.org"
+    }
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": []
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [],
+      "additional_backgrounds_tiling": []
+    },
+    "colors": {
+      "toolbar": "rgba(62, 39, 45, 0.81)",
+      "toolbar_text": "rgb(211, 134, 155)",
+      "frame": "rgb(27, 17, 14)",
+      "tab_background_text": "rgb(193, 142, 118)",
+      "toolbar_field": "rgb(44, 44, 12)",
+      "toolbar_field_text": "rgb(224, 138, 38)",
+      "tab_line": "rgb(211, 134, 155)",
+      "popup": "rgb(9, 35, 42)",
+      "popup_text": "rgb(228, 203, 179)",
+      "tab_text": "rgb(211, 134, 155)",
+      "tab_loading": "rgb(211, 134, 155)"
+    }
+  }
+}
